@@ -1,7 +1,7 @@
 <?php 
 
-$var= "Programmer";
-echo "Hello world, ,I'm ready to be ; $var";
+$var= "programming";
+echo "Hello world, ,I'm ready to learn $var";
 
 
 
