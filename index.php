@@ -1,5 +1,8 @@
 <?php 
 
-echo "Hello world, ,I'm ready";
+$var= "Programmer";
+echo "Hello world, ,I'm ready to be ; $var";
+
+
 
 ?>
